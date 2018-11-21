@@ -1,3 +1,8 @@
+/* 
+Details: https://youtu.be/LNALLzAdT4A 
+Gerber: https://goo.gl/FTdSa2 
+*/
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
